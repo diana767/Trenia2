@@ -1,0 +1,24 @@
+﻿<Page x:Class="Trenia2.Pages.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Trenia2.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Страница входа"
+      Background="White">
+
+    <Grid>
+        <StackPanel Height="400" Width="200">
+            <Image Height="90" Width="130" Source="../Images/Icon.png"></Image>
+            <TextBlock Text="Вход в систему" Margin="10" HorizontalAlignment="Center"  FontSize="24" FontWeight="Bold"></TextBlock>
+            <TextBlock Text="Введите логин" Margin="10" FontSize="14"></TextBlock>
+            <TextBox x:Name="LoginBox"></TextBox>
+            <TextBlock Text="Введите пароль" Margin="10"  FontSize="14" ></TextBlock>
+            <PasswordBox x:Name="PasswordBox"></PasswordBox>
+            <Button Click="Vxod_Polzovatel" Margin="10" Content="Войти"></Button>
+            <Button Click="Vxod_Gost" Margin="10" Content="Войти как гость"></Button>
+        </StackPanel>
+    </Grid>
+</Page>

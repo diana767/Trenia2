@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\addeditorderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\addeditorderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\addeditproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\addeditproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\addeditorderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\addeditorderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\addeditproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\addeditproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\models\\punckvidachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:models\\punckvidachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\models\\zakaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:models\\zakaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\models\\proizvoditel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:models\\proizvoditel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|c:\\users\\user\\desktop\\trenia2\\trenia2\\models\\trenia2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AD421-AFDA-46F9-84C9-BB5CDBAA1B79}|Trenia2.csproj|solutionrelative:models\\trenia2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Zakaz.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\Zakaz.cs",
+              "RelativeDocumentMoniker": "Models\\Zakaz.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\Zakaz.cs",
+              "RelativeToolTip": "Models\\Zakaz.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:59:25.952Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditOrdersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\AddEditOrdersPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddEditOrdersPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\AddEditOrdersPage.xaml",
+              "RelativeToolTip": "Pages\\AddEditOrdersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T18:10:51.505Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\AddEditProductPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddEditProductPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\AddEditProductPage.xaml",
+              "RelativeToolTip": "Pages\\AddEditProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T18:37:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\OrdersPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\OrdersPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\OrdersPage.xaml",
+              "RelativeToolTip": "Pages\\OrdersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T18:37:17.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEditOrdersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\AddEditOrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddEditOrdersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\AddEditOrdersPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AddEditOrdersPage.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:14:27.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\OrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrdersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\OrdersPage.xaml.cs",
+              "RelativeToolTip": "Pages\\OrdersPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:55:59.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAjwCcAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:55:04.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T16:15:52.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T15:56:02.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwDYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:32:26.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Proizvoditel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\Proizvoditel.cs",
+              "RelativeDocumentMoniker": "Models\\Proizvoditel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\Proizvoditel.cs",
+              "RelativeToolTip": "Models\\Proizvoditel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:48:37.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddEditProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\AddEditProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddEditProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Pages\\AddEditProductPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AddEditProductPage.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwB4AAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:14:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PunckVidachi.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\PunckVidachi.cs",
+              "RelativeDocumentMoniker": "Models\\PunckVidachi.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\PunckVidachi.cs",
+              "RelativeToolTip": "Models\\PunckVidachi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:13:44.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Trenia2Context.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\Trenia2Context.cs",
+              "RelativeDocumentMoniker": "Models\\Trenia2Context.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\Trenia2Context.cs",
+              "RelativeToolTip": "Models\\Trenia2Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:56:57.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trenia2\\Trenia2\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:46:10.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
